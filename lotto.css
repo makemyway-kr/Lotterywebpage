@@ -21,3 +21,19 @@
     margin: auto;
     margin-left: 47%;
 }
+
+#numberballs {
+    display: block;
+    align-content: center;
+    text-align: center;
+    font-size: 50px;
+}
+
+.balls {
+    display: block;
+    background: rgb(211, 23, 23);
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    margin-left: 10%;
+}
