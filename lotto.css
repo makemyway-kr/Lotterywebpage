@@ -1,0 +1,23 @@
+#banner {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    width: auto;
+    padding: 10px;
+    background-color: rgb(182, 109, 26);
+    outline-style: solid;
+    outline-color: rgb(8, 1, 1);
+    outline-width: 5px;
+    height: 100px;
+    margin-top: 30px;
+    display: block;
+    margin-left: 30%;
+    margin-right: 30%;
+    color: black;
+}
+
+#drawbutton {
+    margin: auto;
+    margin-left: 47%;
+}
